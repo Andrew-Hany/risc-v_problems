@@ -1,5 +1,9 @@
 # risc-v_problems
-
+# questions
+ <div>
+ <img src="HW2(1).pdf" width=50%/>
+ </div>
+ 
  ## problem1
  <div>
  <img src="1.png" width=50%/>
