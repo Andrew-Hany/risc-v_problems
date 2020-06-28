@@ -2,7 +2,7 @@
 
  ## problem1
  <div>
- <img src="1.png "/>
+ <img src="1.png" width=100px/>
  </div>
  
  
@@ -18,20 +18,20 @@
  <img src="3.png "/>
  </div>
  
-    ## problem4
+   ## problem4
     
-    <div>
+  <div>
  <img src="4.png "/>
  </div>
  
-     ## problem5
+   ## problem5
      
-     <div>
+   <div>
  <img src="5.png "/>
  </div>
  
-      ## problem6
+   ## problem6
       
-      <div>
+   <div>
  <img src="6.png "/>
  </div>
